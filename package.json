@@ -1,0 +1,19 @@
+{
+  "name": "@wellspr/cra-template-clean",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "custom-cra-template",
+    "clean-template"
+  ],
+  "description": "A cleaner template for create react app",
+  "author": "Paulo R. ",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
