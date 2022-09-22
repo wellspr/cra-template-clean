@@ -1,12 +1,16 @@
 {
-  "name": "@wellspr/cra-template-clean",
+  "name": "@prwells/cra-template-clean",
   "version": "1.0.0",
+  "description": "A cleaner template for create react app",
   "keywords": [
     "react",
     "custom-cra-template",
     "clean-template"
   ],
-  "description": "A cleaner template for create react app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wellspr/cra-template-clean.git"
+  },
   "author": "Paulo R. ",
   "license": "ISC",
   "engines": {
